@@ -3,7 +3,7 @@ Application to get weather forcasts for  list of locations
 
 
 ## Application Use
-- Clone the repository and open the solution in VS.
+- Clone or download the repository and open the solution in VS.
 - Run the application and you will be presented with the home page.
 - After navigating to the Locations page you can see the saved locations and can upload a csv list of locations to the database.
 - Each saved location shows high level information for its last retrieved weather forcast.
