@@ -1,0 +1,64 @@
+D:\OneDrive\Documents\Future Dynamics\Products\Apps\Weather\WeatherApp.OpenMeteo\bin\Debug\WeatherApp.OpenMeteo.dll
+D:\OneDrive\Documents\Future Dynamics\Products\Apps\Weather\WeatherApp.OpenMeteo\bin\Debug\WeatherApp.OpenMeteo.pdb
+D:\OneDrive\Documents\Future Dynamics\Products\Apps\Weather\WeatherApp.OpenMeteo\bin\Debug\WeatherApp.OpenMeteo.xml
+D:\OneDrive\Documents\Future Dynamics\Products\Apps\Weather\WeatherApp.OpenMeteo\obj\Debug\WeatherApp.OpenMeteo.vbproj.AssemblyReference.cache
+D:\OneDrive\Documents\Future Dynamics\Products\Apps\Weather\WeatherApp.OpenMeteo\obj\Debug\WeatherApp.OpenMeteo.Resources.resources
+D:\OneDrive\Documents\Future Dynamics\Products\Apps\Weather\WeatherApp.OpenMeteo\obj\Debug\WeatherApp.OpenMeteo.vbproj.GenerateResource.cache
+D:\OneDrive\Documents\Future Dynamics\Products\Apps\Weather\WeatherApp.OpenMeteo\obj\Debug\WeatherApp.OpenMeteo.vbproj.CoreCompileInputs.cache
+D:\OneDrive\Documents\Future Dynamics\Products\Apps\Weather\WeatherApp.OpenMeteo\obj\Debug\WeatherApp.OpenMeteo.dll
+D:\OneDrive\Documents\Future Dynamics\Products\Apps\Weather\WeatherApp.OpenMeteo\obj\Debug\WeatherApp.OpenMeteo.xml
+D:\OneDrive\Documents\Future Dynamics\Products\Apps\Weather\WeatherApp.OpenMeteo\obj\Debug\WeatherApp.OpenMeteo.pdb
+D:\OneDrive\Documents\Future Dynamics\Products\Apps\Weather\WeatherApp.OpenMeteo\bin\Debug\Newtonsoft.Json.dll
+D:\OneDrive\Documents\Future Dynamics\Products\Apps\Weather\WeatherApp.OpenMeteo\bin\Debug\WeatherApp.Interfaces.dll
+D:\OneDrive\Documents\Future Dynamics\Products\Apps\Weather\WeatherApp.OpenMeteo\bin\Debug\WeatherApp.Interfaces.pdb
+D:\OneDrive\Documents\Future Dynamics\Products\Apps\Weather\WeatherApp.OpenMeteo\bin\Debug\WeatherApp.Interfaces.xml
+D:\OneDrive\Documents\Future Dynamics\Products\Apps\Weather\WeatherApp.OpenMeteo\bin\Debug\Newtonsoft.Json.xml
+D:\OneDrive\Documents\Future Dynamics\Products\Apps\Weather\WeatherApp.OpenMeteo\obj\Debug\WeatherA.B83EF0D6.Up2Date
+D:\OneDrive\Documents\Future Dynamics\Products\Apps\Weather3\WeatherApp.OpenMeteo\bin\Debug\WeatherApp.OpenMeteo.dll
+D:\OneDrive\Documents\Future Dynamics\Products\Apps\Weather3\WeatherApp.OpenMeteo\bin\Debug\WeatherApp.OpenMeteo.pdb
+D:\OneDrive\Documents\Future Dynamics\Products\Apps\Weather3\WeatherApp.OpenMeteo\bin\Debug\WeatherApp.OpenMeteo.xml
+D:\OneDrive\Documents\Future Dynamics\Products\Apps\Weather3\WeatherApp.OpenMeteo\bin\Debug\Newtonsoft.Json.dll
+D:\OneDrive\Documents\Future Dynamics\Products\Apps\Weather3\WeatherApp.OpenMeteo\bin\Debug\WeatherApp.Interfaces.dll
+D:\OneDrive\Documents\Future Dynamics\Products\Apps\Weather3\WeatherApp.OpenMeteo\bin\Debug\WeatherApp.Interfaces.pdb
+D:\OneDrive\Documents\Future Dynamics\Products\Apps\Weather3\WeatherApp.OpenMeteo\bin\Debug\WeatherApp.Interfaces.xml
+D:\OneDrive\Documents\Future Dynamics\Products\Apps\Weather3\WeatherApp.OpenMeteo\bin\Debug\Newtonsoft.Json.xml
+D:\OneDrive\Documents\Future Dynamics\Products\Apps\Weather3\WeatherApp.OpenMeteo\obj\Debug\WeatherApp.OpenMeteo.vbproj.AssemblyReference.cache
+D:\OneDrive\Documents\Future Dynamics\Products\Apps\Weather3\WeatherApp.OpenMeteo\obj\Debug\WeatherApp.OpenMeteo.Resources.resources
+D:\OneDrive\Documents\Future Dynamics\Products\Apps\Weather3\WeatherApp.OpenMeteo\obj\Debug\WeatherApp.OpenMeteo.vbproj.GenerateResource.cache
+D:\OneDrive\Documents\Future Dynamics\Products\Apps\Weather3\WeatherApp.OpenMeteo\obj\Debug\WeatherApp.OpenMeteo.vbproj.CoreCompileInputs.cache
+D:\OneDrive\Documents\Future Dynamics\Products\Apps\Weather3\WeatherApp.OpenMeteo\obj\Debug\WeatherA.B83EF0D6.Up2Date
+D:\OneDrive\Documents\Future Dynamics\Products\Apps\Weather3\WeatherApp.OpenMeteo\obj\Debug\WeatherApp.OpenMeteo.dll
+D:\OneDrive\Documents\Future Dynamics\Products\Apps\Weather3\WeatherApp.OpenMeteo\obj\Debug\WeatherApp.OpenMeteo.xml
+D:\OneDrive\Documents\Future Dynamics\Products\Apps\Weather3\WeatherApp.OpenMeteo\obj\Debug\WeatherApp.OpenMeteo.pdb
+D:\OneDrive\Documents\Future Dynamics\Products\Apps\Weather4\WeatherApp.OpenMeteo\bin\Debug\WeatherApp.OpenMeteo.dll
+D:\OneDrive\Documents\Future Dynamics\Products\Apps\Weather4\WeatherApp.OpenMeteo\bin\Debug\WeatherApp.OpenMeteo.pdb
+D:\OneDrive\Documents\Future Dynamics\Products\Apps\Weather4\WeatherApp.OpenMeteo\bin\Debug\WeatherApp.OpenMeteo.xml
+D:\OneDrive\Documents\Future Dynamics\Products\Apps\Weather4\WeatherApp.OpenMeteo\bin\Debug\Newtonsoft.Json.dll
+D:\OneDrive\Documents\Future Dynamics\Products\Apps\Weather4\WeatherApp.OpenMeteo\bin\Debug\WeatherApp.Interfaces.dll
+D:\OneDrive\Documents\Future Dynamics\Products\Apps\Weather4\WeatherApp.OpenMeteo\bin\Debug\WeatherApp.Interfaces.pdb
+D:\OneDrive\Documents\Future Dynamics\Products\Apps\Weather4\WeatherApp.OpenMeteo\bin\Debug\WeatherApp.Interfaces.xml
+D:\OneDrive\Documents\Future Dynamics\Products\Apps\Weather4\WeatherApp.OpenMeteo\bin\Debug\Newtonsoft.Json.xml
+D:\OneDrive\Documents\Future Dynamics\Products\Apps\Weather4\WeatherApp.OpenMeteo\obj\Debug\WeatherApp.OpenMeteo.vbproj.AssemblyReference.cache
+D:\OneDrive\Documents\Future Dynamics\Products\Apps\Weather4\WeatherApp.OpenMeteo\obj\Debug\WeatherApp.OpenMeteo.Resources.resources
+D:\OneDrive\Documents\Future Dynamics\Products\Apps\Weather4\WeatherApp.OpenMeteo\obj\Debug\WeatherApp.OpenMeteo.vbproj.GenerateResource.cache
+D:\OneDrive\Documents\Future Dynamics\Products\Apps\Weather4\WeatherApp.OpenMeteo\obj\Debug\WeatherApp.OpenMeteo.vbproj.CoreCompileInputs.cache
+D:\OneDrive\Documents\Future Dynamics\Products\Apps\Weather4\WeatherApp.OpenMeteo\obj\Debug\WeatherA.B83EF0D6.Up2Date
+D:\OneDrive\Documents\Future Dynamics\Products\Apps\Weather4\WeatherApp.OpenMeteo\obj\Debug\WeatherApp.OpenMeteo.dll
+D:\OneDrive\Documents\Future Dynamics\Products\Apps\Weather4\WeatherApp.OpenMeteo\obj\Debug\WeatherApp.OpenMeteo.xml
+D:\OneDrive\Documents\Future Dynamics\Products\Apps\Weather4\WeatherApp.OpenMeteo\obj\Debug\WeatherApp.OpenMeteo.pdb
+C:\Users\deans\Documents\Weather\WeatherApp.OpenMeteo\bin\Debug\WeatherApp.OpenMeteo.dll
+C:\Users\deans\Documents\Weather\WeatherApp.OpenMeteo\bin\Debug\WeatherApp.OpenMeteo.pdb
+C:\Users\deans\Documents\Weather\WeatherApp.OpenMeteo\bin\Debug\WeatherApp.OpenMeteo.xml
+C:\Users\deans\Documents\Weather\WeatherApp.OpenMeteo\bin\Debug\Newtonsoft.Json.dll
+C:\Users\deans\Documents\Weather\WeatherApp.OpenMeteo\bin\Debug\WeatherApp.Interfaces.dll
+C:\Users\deans\Documents\Weather\WeatherApp.OpenMeteo\bin\Debug\WeatherApp.Interfaces.pdb
+C:\Users\deans\Documents\Weather\WeatherApp.OpenMeteo\bin\Debug\WeatherApp.Interfaces.xml
+C:\Users\deans\Documents\Weather\WeatherApp.OpenMeteo\bin\Debug\Newtonsoft.Json.xml
+C:\Users\deans\Documents\Weather\WeatherApp.OpenMeteo\obj\Debug\WeatherApp.OpenMeteo.vbproj.AssemblyReference.cache
+C:\Users\deans\Documents\Weather\WeatherApp.OpenMeteo\obj\Debug\WeatherApp.OpenMeteo.Resources.resources
+C:\Users\deans\Documents\Weather\WeatherApp.OpenMeteo\obj\Debug\WeatherApp.OpenMeteo.vbproj.GenerateResource.cache
+C:\Users\deans\Documents\Weather\WeatherApp.OpenMeteo\obj\Debug\WeatherApp.OpenMeteo.vbproj.CoreCompileInputs.cache
+C:\Users\deans\Documents\Weather\WeatherApp.OpenMeteo\obj\Debug\WeatherA.B83EF0D6.Up2Date
+C:\Users\deans\Documents\Weather\WeatherApp.OpenMeteo\obj\Debug\WeatherApp.OpenMeteo.dll
+C:\Users\deans\Documents\Weather\WeatherApp.OpenMeteo\obj\Debug\WeatherApp.OpenMeteo.xml
+C:\Users\deans\Documents\Weather\WeatherApp.OpenMeteo\obj\Debug\WeatherApp.OpenMeteo.pdb

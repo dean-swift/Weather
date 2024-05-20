@@ -1,0 +1,160 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\deans\\Documents\\Weather\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{926D26F8-709D-4132-8A12-AE8BD6C131BF}|WeatherApp.Web\\WeatherApp.Web.vbproj|c:\\users\\deans\\documents\\weather\\weatherapp.web\\tests\\homecontrollertests.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{926D26F8-709D-4132-8A12-AE8BD6C131BF}|WeatherApp.Web\\WeatherApp.Web.vbproj|solutionrelative:weatherapp.web\\tests\\homecontrollertests.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{926D26F8-709D-4132-8A12-AE8BD6C131BF}|WeatherApp.Web\\WeatherApp.Web.vbproj|c:\\users\\deans\\documents\\weather\\weatherapp.web\\tests\\userlocationcontrollertests.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{926D26F8-709D-4132-8A12-AE8BD6C131BF}|WeatherApp.Web\\WeatherApp.Web.vbproj|solutionrelative:weatherapp.web\\tests\\userlocationcontrollertests.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{926D26F8-709D-4132-8A12-AE8BD6C131BF}|WeatherApp.Web\\WeatherApp.Web.vbproj|c:\\users\\deans\\documents\\weather\\weatherapp.web\\tests\\weatherforcastcontrollertests.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{926D26F8-709D-4132-8A12-AE8BD6C131BF}|WeatherApp.Web\\WeatherApp.Web.vbproj|solutionrelative:weatherapp.web\\tests\\weatherforcastcontrollertests.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{926D26F8-709D-4132-8A12-AE8BD6C131BF}|WeatherApp.Web\\WeatherApp.Web.vbproj|C:\\Users\\deans\\Documents\\Weather\\weatherapp.web\\controllers\\weatherforcastcontroller.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{926D26F8-709D-4132-8A12-AE8BD6C131BF}|WeatherApp.Web\\WeatherApp.Web.vbproj|solutionrelative:weatherapp.web\\controllers\\weatherforcastcontroller.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{926D26F8-709D-4132-8A12-AE8BD6C131BF}|WeatherApp.Web\\WeatherApp.Web.vbproj|c:\\users\\deans\\documents\\weather\\weatherapp.web\\controllers\\userlocationcontroller.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{926D26F8-709D-4132-8A12-AE8BD6C131BF}|WeatherApp.Web\\WeatherApp.Web.vbproj|solutionrelative:weatherapp.web\\controllers\\userlocationcontroller.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{926D26F8-709D-4132-8A12-AE8BD6C131BF}|WeatherApp.Web\\WeatherApp.Web.vbproj|c:\\users\\deans\\documents\\weather\\weatherapp.web\\views\\userlocation\\index.vbhtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{926D26F8-709D-4132-8A12-AE8BD6C131BF}|WeatherApp.Web\\WeatherApp.Web.vbproj|solutionrelative:weatherapp.web\\views\\userlocation\\index.vbhtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{926D26F8-709D-4132-8A12-AE8BD6C131BF}|WeatherApp.Web\\WeatherApp.Web.vbproj|C:\\Users\\deans\\Documents\\Weather\\weatherapp.web\\views\\weatherforcast\\index.vbhtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{926D26F8-709D-4132-8A12-AE8BD6C131BF}|WeatherApp.Web\\WeatherApp.Web.vbproj|solutionrelative:weatherapp.web\\views\\weatherforcast\\index.vbhtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21E99E66-A5E3-4643-9E91-D98BA3BD00D2}|WeatherApp.DataAccess\\WeatherApp.DataAccess.vbproj|C:\\Users\\deans\\Documents\\Weather\\weatherapp.dataaccess\\weatherappdbcontext.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{21E99E66-A5E3-4643-9E91-D98BA3BD00D2}|WeatherApp.DataAccess\\WeatherApp.DataAccess.vbproj|solutionrelative:weatherapp.dataaccess\\weatherappdbcontext.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WeatherForcastControllerTests.vb",
+              "DocumentMoniker": "C:\\Users\\deans\\Documents\\Weather\\WeatherApp.Web\\Tests\\WeatherForcastControllerTests.vb",
+              "RelativeDocumentMoniker": "WeatherApp.Web\\Tests\\WeatherForcastControllerTests.vb",
+              "ToolTip": "C:\\Users\\deans\\Documents\\Weather\\WeatherApp.Web\\Tests\\WeatherForcastControllerTests.vb",
+              "RelativeToolTip": "WeatherApp.Web\\Tests\\WeatherForcastControllerTests.vb",
+              "ViewState": "AQIAABIAAAAAAAAAAAAowAYAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-20T13:54:57.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserLocationControllerTests.vb",
+              "DocumentMoniker": "C:\\Users\\deans\\Documents\\Weather\\WeatherApp.Web\\Tests\\UserLocationControllerTests.vb",
+              "RelativeDocumentMoniker": "WeatherApp.Web\\Tests\\UserLocationControllerTests.vb",
+              "ToolTip": "C:\\Users\\deans\\Documents\\Weather\\WeatherApp.Web\\Tests\\UserLocationControllerTests.vb",
+              "RelativeToolTip": "WeatherApp.Web\\Tests\\UserLocationControllerTests.vb",
+              "ViewState": "AQIAAHsAAAAAAAAAAAA4wAMAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-20T13:54:30.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeControllerTests.vb",
+              "DocumentMoniker": "C:\\Users\\deans\\Documents\\Weather\\WeatherApp.Web\\Tests\\HomeControllerTests.vb",
+              "RelativeDocumentMoniker": "WeatherApp.Web\\Tests\\HomeControllerTests.vb",
+              "ToolTip": "C:\\Users\\deans\\Documents\\Weather\\WeatherApp.Web\\Tests\\HomeControllerTests.vb",
+              "RelativeToolTip": "WeatherApp.Web\\Tests\\HomeControllerTests.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-20T13:54:04.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserLocationController.vb",
+              "DocumentMoniker": "C:\\Users\\deans\\Documents\\Weather\\WeatherApp.Web\\Controllers\\UserLocationController.vb",
+              "RelativeDocumentMoniker": "WeatherApp.Web\\Controllers\\UserLocationController.vb",
+              "ToolTip": "C:\\Users\\deans\\Documents\\Weather\\WeatherApp.Web\\Controllers\\UserLocationController.vb",
+              "RelativeToolTip": "WeatherApp.Web\\Controllers\\UserLocationController.vb",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwBcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-20T12:44:01.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.vbhtml",
+              "DocumentMoniker": "C:\\Users\\deans\\Documents\\Weather\\WeatherApp.Web\\Views\\UserLocation\\Index.vbhtml",
+              "RelativeDocumentMoniker": "WeatherApp.Web\\Views\\UserLocation\\Index.vbhtml",
+              "ToolTip": "C:\\Users\\deans\\Documents\\Weather\\WeatherApp.Web\\Views\\UserLocation\\Index.vbhtml",
+              "RelativeToolTip": "WeatherApp.Web\\Views\\UserLocation\\Index.vbhtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003381|",
+              "WhenOpened": "2024-05-20T01:32:38.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.vbhtml",
+              "DocumentMoniker": "C:\\Users\\deans\\Documents\\Weather\\WeatherApp.Web\\Views\\WeatherForcast\\Index.vbhtml",
+              "RelativeDocumentMoniker": "WeatherApp.Web\\Views\\WeatherForcast\\Index.vbhtml",
+              "ToolTip": "C:\\Users\\deans\\Documents\\Weather\\WeatherApp.Web\\Views\\WeatherForcast\\Index.vbhtml",
+              "RelativeToolTip": "WeatherApp.Web\\Views\\WeatherForcast\\Index.vbhtml",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAAAF8AAABaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003381|",
+              "WhenOpened": "2024-05-20T01:28:01.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WeatherForcastController.vb",
+              "DocumentMoniker": "C:\\Users\\deans\\Documents\\Weather\\WeatherApp.Web\\Controllers\\WeatherForcastController.vb",
+              "RelativeDocumentMoniker": "WeatherApp.Web\\Controllers\\WeatherForcastController.vb",
+              "ToolTip": "C:\\Users\\deans\\Documents\\Weather\\WeatherApp.Web\\Controllers\\WeatherForcastController.vb",
+              "RelativeToolTip": "WeatherApp.Web\\Controllers\\WeatherForcastController.vb",
+              "ViewState": "AQIAADMAAAAAAAAAAAAnwCcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-20T01:20:01.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WeatherAppDbContext.vb",
+              "DocumentMoniker": "C:\\Users\\deans\\Documents\\Weather\\WeatherApp.DataAccess\\WeatherAppDbContext.vb",
+              "RelativeDocumentMoniker": "WeatherApp.DataAccess\\WeatherAppDbContext.vb",
+              "ToolTip": "C:\\Users\\deans\\Documents\\Weather\\WeatherApp.DataAccess\\WeatherAppDbContext.vb",
+              "RelativeToolTip": "WeatherApp.DataAccess\\WeatherAppDbContext.vb",
+              "ViewState": "AQIAADQAAAAAAAAAAAAuwEEAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-20T01:17:39.401Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

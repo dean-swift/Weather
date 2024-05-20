@@ -1,0 +1,30 @@
+D:\OneDrive\Documents\Future Dynamics\Products\Apps\Weather\WeatherApp.Utilities\bin\Debug\WeatherApp.Utilities.dll
+D:\OneDrive\Documents\Future Dynamics\Products\Apps\Weather\WeatherApp.Utilities\bin\Debug\WeatherApp.Utilities.pdb
+D:\OneDrive\Documents\Future Dynamics\Products\Apps\Weather\WeatherApp.Utilities\bin\Debug\WeatherApp.Utilities.xml
+D:\OneDrive\Documents\Future Dynamics\Products\Apps\Weather\WeatherApp.Utilities\obj\Debug\WeatherApp.Utilities.vbproj.AssemblyReference.cache
+D:\OneDrive\Documents\Future Dynamics\Products\Apps\Weather\WeatherApp.Utilities\obj\Debug\WeatherApp.Utilities.Resources.resources
+D:\OneDrive\Documents\Future Dynamics\Products\Apps\Weather\WeatherApp.Utilities\obj\Debug\WeatherApp.Utilities.vbproj.GenerateResource.cache
+D:\OneDrive\Documents\Future Dynamics\Products\Apps\Weather\WeatherApp.Utilities\obj\Debug\WeatherApp.Utilities.vbproj.CoreCompileInputs.cache
+D:\OneDrive\Documents\Future Dynamics\Products\Apps\Weather\WeatherApp.Utilities\obj\Debug\WeatherApp.Utilities.dll
+D:\OneDrive\Documents\Future Dynamics\Products\Apps\Weather\WeatherApp.Utilities\obj\Debug\WeatherApp.Utilities.xml
+D:\OneDrive\Documents\Future Dynamics\Products\Apps\Weather\WeatherApp.Utilities\obj\Debug\WeatherApp.Utilities.pdb
+D:\OneDrive\Documents\Future Dynamics\Products\Apps\Weather4\WeatherApp.Utilities\bin\Debug\WeatherApp.Utilities.dll
+D:\OneDrive\Documents\Future Dynamics\Products\Apps\Weather4\WeatherApp.Utilities\bin\Debug\WeatherApp.Utilities.pdb
+D:\OneDrive\Documents\Future Dynamics\Products\Apps\Weather4\WeatherApp.Utilities\bin\Debug\WeatherApp.Utilities.xml
+D:\OneDrive\Documents\Future Dynamics\Products\Apps\Weather4\WeatherApp.Utilities\obj\Debug\WeatherApp.Utilities.vbproj.AssemblyReference.cache
+D:\OneDrive\Documents\Future Dynamics\Products\Apps\Weather4\WeatherApp.Utilities\obj\Debug\WeatherApp.Utilities.Resources.resources
+D:\OneDrive\Documents\Future Dynamics\Products\Apps\Weather4\WeatherApp.Utilities\obj\Debug\WeatherApp.Utilities.vbproj.GenerateResource.cache
+D:\OneDrive\Documents\Future Dynamics\Products\Apps\Weather4\WeatherApp.Utilities\obj\Debug\WeatherApp.Utilities.vbproj.CoreCompileInputs.cache
+D:\OneDrive\Documents\Future Dynamics\Products\Apps\Weather4\WeatherApp.Utilities\obj\Debug\WeatherApp.Utilities.dll
+D:\OneDrive\Documents\Future Dynamics\Products\Apps\Weather4\WeatherApp.Utilities\obj\Debug\WeatherApp.Utilities.xml
+D:\OneDrive\Documents\Future Dynamics\Products\Apps\Weather4\WeatherApp.Utilities\obj\Debug\WeatherApp.Utilities.pdb
+C:\Users\deans\Documents\Weather\WeatherApp.Utilities\bin\Debug\WeatherApp.Utilities.dll
+C:\Users\deans\Documents\Weather\WeatherApp.Utilities\bin\Debug\WeatherApp.Utilities.pdb
+C:\Users\deans\Documents\Weather\WeatherApp.Utilities\bin\Debug\WeatherApp.Utilities.xml
+C:\Users\deans\Documents\Weather\WeatherApp.Utilities\obj\Debug\WeatherApp.Utilities.vbproj.AssemblyReference.cache
+C:\Users\deans\Documents\Weather\WeatherApp.Utilities\obj\Debug\WeatherApp.Utilities.Resources.resources
+C:\Users\deans\Documents\Weather\WeatherApp.Utilities\obj\Debug\WeatherApp.Utilities.vbproj.GenerateResource.cache
+C:\Users\deans\Documents\Weather\WeatherApp.Utilities\obj\Debug\WeatherApp.Utilities.vbproj.CoreCompileInputs.cache
+C:\Users\deans\Documents\Weather\WeatherApp.Utilities\obj\Debug\WeatherApp.Utilities.dll
+C:\Users\deans\Documents\Weather\WeatherApp.Utilities\obj\Debug\WeatherApp.Utilities.xml
+C:\Users\deans\Documents\Weather\WeatherApp.Utilities\obj\Debug\WeatherApp.Utilities.pdb
